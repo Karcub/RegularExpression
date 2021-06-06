@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c382788_002D27b7_002D43e0_002D9bcd_002D6618d99f48fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCheckEmailRegexValidity_EmptyString_Fails #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C6ECF47D-65DE-4841-B3B5-03A27573B273::.NETFramework,Version=v4.7.2::RegularExpressionTests.Tests.TestCheckEmailRegexValidity_EmptyString_Fails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b260392_002Df117_002D4ac4_002Da169_002D61e8c9111c81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCheckEmailRegexValidity_EmptyString_Fails #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C6ECF47D-65DE-4841-B3B5-03A27573B273::.NETFramework,Version=v4.7.2::RegularExpressionTests.Tests.TestCheckEmailRegexValidity_EmptyString_Fails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=88c36ce7_002Dee54_002D4d7a_002D815c_002De9de52d2e01d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCheckEmailRegexValidity_EmptyString_Fails" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C6ECF47D-65DE-4841-B3B5-03A27573B273::.NETFramework,Version=v4.7.2::RegularExpressionTests.Tests.TestCheckEmailRegexValidity_EmptyString_Fails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f31b1096_002D86a0_002D4146_002Db342_002Df2868f357f86/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCheckEmailRegexValidity_EmptyString_Fails #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C6ECF47D-65DE-4841-B3B5-03A27573B273::.NETFramework,Version=v4.7.2::RegularExpressionTests.Tests.TestCheckEmailRegexValidity_EmptyString_Fails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd21750b_002Da117_002D4755_002Da0ab_002Dbae2576e2cf1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCheckEmailRegexValidity_EmptyString_Fails #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C6ECF47D-65DE-4841-B3B5-03A27573B273::.NETFramework,Version=v4.7.2::RegularExpressionTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

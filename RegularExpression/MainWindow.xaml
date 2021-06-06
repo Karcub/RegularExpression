@@ -1,0 +1,32 @@
+﻿<Window x:Class="RegularExpression.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Input validator" Height="220" Width="350">
+    <StackPanel>
+        <DockPanel>
+            <Label Content="Name" />
+            <TextBox x:Name="NameString" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+        <DockPanel>
+            <Label Content="Phone" />
+            <TextBox x:Name="PhoneString" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+        <DockPanel>
+            <Label Content="E-mail" />
+            <TextBox x:Name="EmailString" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+        <Button Content="Save" HorizontalAlignment="Right" Width="80" Click="BtnSave_Click"/>
+        <DockPanel >
+            <Label Content="Phone in" />
+            <TextBox x:Name="PhoneInput" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+        <Button Content="Reformat" HorizontalAlignment="Right" Width="80" Click="BtnReformat_Click"/>
+        <DockPanel>
+            <Label Content="Phone out" />
+            <TextBox x:Name="PhoneOutput" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+    </StackPanel>
+</Window>
